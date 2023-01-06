@@ -1,0 +1,2679 @@
+[
+{
+    "criteriu": 1,
+    "nume": "Spitalul Judetean de Urgenta Alba Iulia",
+    "jude\u0163": "Alba",
+    "clasificare": "III"
+},
+{
+    "criteriu": 2,
+    "nume": "Spitalul de Pneumoftiziologie Aiud",
+    "jude\u0163": "Alba",
+    "clasificare": "V"
+},
+{
+    "criteriu": 3,
+    "nume": "Spitalul Municipal Blaj",
+    "jude\u0163": "Alba",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 4,
+    "nume": "Spitalul Municipal Aiud",
+    "jude\u0163": "Alba",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 5,
+    "nume": "Spitalul Orasenesc Abrud",
+    "jude\u0163": "Alba",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 6,
+    "nume": "Spitalul Orasenesc Campeni",
+    "jude\u0163": "Alba",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 7,
+    "nume": "Spitalul Municipal Sebes",
+    "jude\u0163": "Alba",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 8,
+    "nume": "Spitalul Orasenesc Cugir",
+    "jude\u0163": "Alba",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 9,
+    "nume": "Spitalul de Boli Cronice Campeni",
+    "jude\u0163": "Alba",
+    "clasificare": "V"
+},
+{
+    "criteriu": 10,
+    "nume": "Spitalul Clinic Judetean  de Urgenta Arad",
+    "jude\u0163": " Arad",
+    "clasificare": "II plan conf. "
+},
+{
+    "criteriu": 11,
+    "nume": "Spitalul de Psihiatrie Mocrea",
+    "jude\u0163": " Arad",
+    "clasificare": "V"
+},
+{
+    "criteriu": 12,
+    "nume": "Spitalul de Psihiatrie Capalnas",
+    "jude\u0163": " Arad",
+    "clasificare": "V plan conf. "
+},
+{
+    "criteriu": 13,
+    "nume": "Spitalul Orasenesc   Lipova",
+    "jude\u0163": " Arad",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 14,
+    "nume": "Spitalul Boli Cronice Sebis",
+    "jude\u0163": " Arad",
+    "clasificare": "V"
+},
+{
+    "criteriu": 15,
+    "nume": "Spitalul Orasenesc Ineu",
+    "jude\u0163": " Arad",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 16,
+    "nume": "Spitalul de Rec.Neuromotorie Dezna",
+    "jude\u0163": " Arad",
+    "clasificare": "V"
+},
+{
+    "criteriu": 17,
+    "nume": "Sc Genesys Medical Clinic SRL",
+    "jude\u0163": " Arad",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 18,
+    "nume": "Sc Laser System SRL",
+    "jude\u0163": " Arad",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 19,
+    "nume": "SC Terapeutica SA-Spital Sf Gheorghe Chi\u015fineu Cri\u015f",
+    "jude\u0163": " Arad",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 20,
+    "nume": "Spitalul de Recuperare Bradet",
+    "jude\u0163": " Arad",
+    "clasificare": "V"
+},
+{
+    "criteriu": 21,
+    "nume": "Spitalul Judetean de Urgenta Pitesti",
+    "jude\u0163": " Arad",
+    "clasificare": "III plan conf. "
+},
+{
+    "criteriu": 22,
+    "nume": "Spitalul de Pediatrie Pitesti",
+    "jude\u0163": " Arad",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 23,
+    "nume": "Spitalul Municipal Campulung",
+    "jude\u0163": " Arad",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 24,
+    "nume": "Spitalul Municipal Curtea de Arges",
+    "jude\u0163": " Arad",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 25,
+    "nume": "Spitalul de Pneumoftiziologie Leordeni",
+    "jude\u0163": " Arad",
+    "clasificare": "V"
+},
+{
+    "criteriu": 26,
+    "nume": "Sp. de Pneumoft. \"Sf.Andrei\" Valea Iasului",
+    "jude\u0163": " Arad",
+    "clasificare": "V"
+},
+{
+    "criteriu": 27,
+    "nume": "Spitalul de Pneumoftiziologie Campulung",
+    "jude\u0163": " Arad",
+    "clasificare": "V"
+},
+{
+    "criteriu": 28,
+    "nume": "Spitalul de Psihiatrie \"Sf.Maria\" Vedea",
+    "jude\u0163": " Arad",
+    "clasificare": "V"
+},
+{
+    "criteriu": 29,
+    "nume": "Spitalul Orasenesc\"Regele Carol I\" Costesti",
+    "jude\u0163": " Arad",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 30,
+    "nume": "Spitalul Orasenesc \u201eSf.Spiridon\u201d Mioveni",
+    "jude\u0163": " Arad",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 31,
+    "nume": "Sp.de Geriatrie si Boli Cr.\u201dC.B.Stolnici\u201dStefanesti",
+    "jude\u0163": " Arad",
+    "clasificare": "V"
+},
+{
+    "criteriu": 32,
+    "nume": "Spit Penitenciar Coliba\u015fi",
+    "jude\u0163": " Arad",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 33,
+    "nume": "Sp. Militar de Urg.\u201dDr.Ion Jianu\u201dPitesti",
+    "jude\u0163": " Arad",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 34,
+    "nume": "SC Centrul Medical Sf Nicolae Pite\u015fti",
+    "jude\u0163": " Arad",
+    "clasificare": "V"
+},
+{
+    "criteriu": 35,
+    "nume": "Sanatoriul Balnear Slanic Moldova",
+    "jude\u0163": " Bac\u0103u",
+    "clasificare": "V"
+},
+{
+    "criteriu": 36,
+    "nume": "Spitalul Judetean de Urgenta Bacau",
+    "jude\u0163": " Bac\u0103u",
+    "clasificare": "III plan conf. "
+},
+{
+    "criteriu": 37,
+    "nume": "Spitalul de Pediatrie Bacau",
+    "jude\u0163": " Bac\u0103u",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 38,
+    "nume": "Spitalul de Pneumoftiziologie Bacau",
+    "jude\u0163": " Bac\u0103u",
+    "clasificare": "V"
+},
+{
+    "criteriu": 39,
+    "nume": "Spitalul Municipal Onesti",
+    "jude\u0163": " Bac\u0103u",
+    "clasificare": "III plan conf. "
+},
+{
+    "criteriu": 40,
+    "nume": "Spitalul Municipal de Urgenta  Moinesti",
+    "jude\u0163": " Bac\u0103u",
+    "clasificare": "III plan conf. "
+},
+{
+    "criteriu": 41,
+    "nume": "Spitalul Orasenesc Buhusi",
+    "jude\u0163": " Bac\u0103u",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 42,
+    "nume": "Sc Polimed SRL Podu Turcului",
+    "jude\u0163": " Bac\u0103u",
+    "clasificare": "IV Plan conf."
+},
+{
+    "criteriu": 43,
+    "nume": "Sc Malp SRL Moinesti",
+    "jude\u0163": " Bac\u0103u",
+    "clasificare": "V"
+},
+{
+    "criteriu": 44,
+    "nume": "Sc Eldimed Materna SRL Bacau",
+    "jude\u0163": " Bac\u0103u",
+    "clasificare": "V"
+},
+{
+    "criteriu": 45,
+    "nume": "Psihomed Laboratory",
+    "jude\u0163": " Bac\u0103u",
+    "clasificare": "V"
+},
+{
+    "criteriu": 46,
+    "nume": "SC Clinica Palade SRL Bacau",
+    "jude\u0163": " Bac\u0103u",
+    "clasificare": "V"
+},
+{
+    "criteriu": 47,
+    "nume": "SC Medical Prexis SRL Bacau",
+    "jude\u0163": " Bac\u0103u",
+    "clasificare": "V"
+},
+{
+    "criteriu": 48,
+    "nume": "Spital Penitenciar Tg. Ocna",
+    "jude\u0163": " Bac\u0103u",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 49,
+    "nume": "SC Magura SA Tg Ocna",
+    "jude\u0163": " Bac\u0103u",
+    "clasificare": "V "
+},
+{
+    "criteriu": 50,
+    "nume": "Sp. de Psihiatrie si pentru Masuri de  Sig. Stei",
+    "jude\u0163": " Bihor",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 51,
+    "nume": "Sp. Clinic de Recuperare Med.Baile Felix",
+    "jude\u0163": " Bihor",
+    "clasificare": "IIM"
+},
+{
+    "criteriu": 52,
+    "nume": "Sp. Clinic Municipal\"Dr. Curteanu\" Oradea",
+    "jude\u0163": " Bihor",
+    "clasificare": "II"
+},
+{
+    "criteriu": 53,
+    "nume": "Spitalul Clinic Judetean de Urgenta Oradea",
+    "jude\u0163": " Bihor",
+    "clasificare": "II"
+},
+{
+    "criteriu": 54,
+    "nume": "Spitalul de Psihiatrie Nucet",
+    "jude\u0163": " Bihor",
+    "clasificare": "V"
+},
+{
+    "criteriu": 55,
+    "nume": "Spitalul Municipal Salonta",
+    "jude\u0163": " Bihor",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 56,
+    "nume": "Spitalul Municipal \"Dr.Pop Mircea\" Marghita",
+    "jude\u0163": " Bihor",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 57,
+    "nume": "Spitalul Orasenesc Alesd",
+    "jude\u0163": " Bihor",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 58,
+    "nume": "Sp. Municipal \"Episcop N.Popovici\"  Beius",
+    "jude\u0163": " Bihor",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 59,
+    "nume": "Spital Clinic de Urgen\u0163a Avram Iancu Oradea",
+    "jude\u0163": " Bihor",
+    "clasificare": "II  plan conf. "
+},
+{
+    "criteriu": 60,
+    "nume": "Spitalul Clinic Pelican -SC Pelican Impex SRL ",
+    "jude\u0163": " Bihor",
+    "clasificare": "II  plan conf. "
+},
+{
+    "criteriu": 61,
+    "nume": "Spital Clinic CF Oradea",
+    "jude\u0163": " Bihor",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 62,
+    "nume": "Spitalul Judetean de Urgenta Bistrita",
+    "jude\u0163": " Bistri\u0163a N\u0103s\u0103ud",
+    "clasificare": "III"
+},
+{
+    "criteriu": 63,
+    "nume": "Spitalul Orasenesc Nasaud \"Dr.George Trifon\"",
+    "jude\u0163": " Bistri\u0163a N\u0103s\u0103ud",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 66,
+    "nume": "SC Clinica Sanovil SRL Bistrita",
+    "jude\u0163": " Bistri\u0163a N\u0103s\u0103ud",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 67,
+    "nume": "Sp. Judetean de Urgenta  \"Mavromati\" Botosani",
+    "jude\u0163": " Boto\u015fani",
+    "clasificare": "III plan conf. "
+},
+{
+    "criteriu": 68,
+    "nume": "Spitalul de Obstetrica-Ginecologie Botosani",
+    "jude\u0163": " Boto\u015fani",
+    "clasificare": "V"
+},
+{
+    "criteriu": 69,
+    "nume": "Spitalul de Copii Botosani",
+    "jude\u0163": " Boto\u015fani",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 70,
+    "nume": "Spitalul de Psihiatrie Botosani",
+    "jude\u0163": " Boto\u015fani",
+    "clasificare": "V"
+},
+{
+    "criteriu": 71,
+    "nume": "Sanatoriul de Neuropsihiatrie Podriga",
+    "jude\u0163": " Boto\u015fani",
+    "clasificare": "V"
+},
+{
+    "criteriu": 72,
+    "nume": "Spitalul  de Recuperare",
+    "jude\u0163": " Boto\u015fani",
+    "clasificare": "V"
+},
+{
+    "criteriu": 73,
+    "nume": "Spitalul de Pneumoftiziologie Botosani",
+    "jude\u0163": " Boto\u015fani",
+    "clasificare": "V"
+},
+{
+    "criteriu": 74,
+    "nume": "Spitalul Municipal Dorohoi",
+    "jude\u0163": " Boto\u015fani",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 75,
+    "nume": "Sanatoriul de Nevroze Predeal",
+    "jude\u0163": " Bra\u015fov",
+    "clasificare": "V"
+},
+{
+    "criteriu": 76,
+    "nume": "Spitalul Clinic Judetean de Urgenta Brasov",
+    "jude\u0163": " Bra\u015fov",
+    "clasificare": "II plan conf. "
+},
+{
+    "criteriu": 77,
+    "nume": "Spitalul Clinic de Copii Brasov",
+    "jude\u0163": " Bra\u015fov",
+    "clasificare": "IIM"
+},
+{
+    "criteriu": 78,
+    "nume": "Sp. Cl. de Obstetrica-Ginecologie  \"Dr.I.A.Sbarcea\"Brasov",
+    "jude\u0163": " Bra\u015fov",
+    "clasificare": "IIM"
+},
+{
+    "criteriu": 79,
+    "nume": "Spitalul de Boli Infectioase Brasov",
+    "jude\u0163": " Bra\u015fov",
+    "clasificare": "IIM"
+},
+{
+    "criteriu": 80,
+    "nume": "Spitalul de Psihiatrie si Neurologie Brasov",
+    "jude\u0163": " Bra\u015fov",
+    "clasificare": "IIM"
+},
+{
+    "criteriu": 81,
+    "nume": "Spitalul de Pneumoftiziologie Brasov",
+    "jude\u0163": " Bra\u015fov",
+    "clasificare": "V"
+},
+{
+    "criteriu": 82,
+    "nume": "Spitalul Municipal Fagaras",
+    "jude\u0163": " Bra\u015fov",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 83,
+    "nume": "Spitalul Orasenesc\"Dr.C.T.Sparchez\" Zarnesti",
+    "jude\u0163": " Bra\u015fov",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 84,
+    "nume": "Spitalul Orasenesc  Rupea",
+    "jude\u0163": " Bra\u015fov",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 85,
+    "nume": "Spital General CF Bra\u015fov",
+    "jude\u0163": " Bra\u015fov",
+    "clasificare": "IV  plan conf. "
+},
+{
+    "criteriu": 86,
+    "nume": "Spital Militar de Urgen\u0163\u0103 Regina Maria Bra\u015fov",
+    "jude\u0163": " Bra\u015fov",
+    "clasificare": "III  plan conf. "
+},
+{
+    "criteriu": 87,
+    "nume": "Hospice Casa Sperantei",
+    "jude\u0163": " Bra\u015fov",
+    "clasificare": "V"
+},
+{
+    "criteriu": 88,
+    "nume": "Vital Med Center SC ",
+    "jude\u0163": " Bra\u015fov",
+    "clasificare": "V"
+},
+{
+    "criteriu": 89,
+    "nume": "SC Clinica New Medics SRL",
+    "jude\u0163": " Bra\u015fov",
+    "clasificare": "V"
+},
+{
+    "criteriu": 90,
+    "nume": "Clinica Eva SC Rurmedical SRL",
+    "jude\u0163": " Bra\u015fov",
+    "clasificare": "V"
+},
+{
+    "criteriu": 91,
+    "nume": "SC Clinicile ICCO Bra\u015fov",
+    "jude\u0163": " Bra\u015fov",
+    "clasificare": "V"
+},
+{
+    "criteriu": 92,
+    "nume": "SC TEO HEALTH SA -Spital Sf. Constantin",
+    "jude\u0163": " Bra\u015fov",
+    "clasificare": "IV  plan conf. "
+},
+{
+    "criteriu": 93,
+    "nume": "Spitalul de Urgenta Judetean Braila",
+    "jude\u0163": " Br\u0103ila",
+    "clasificare": "III plan conf. "
+},
+{
+    "criteriu": 94,
+    "nume": "Spitalul de Obstetrica-Ginecologie Braila",
+    "jude\u0163": " Br\u0103ila",
+    "clasificare": "V"
+},
+{
+    "criteriu": 95,
+    "nume": "Spitalul de Pneumoftiziologie Braila",
+    "jude\u0163": " Br\u0103ila",
+    "clasificare": "V"
+},
+{
+    "criteriu": 96,
+    "nume": "Spitalul de Psihiatrie \"Sf.Pantelimon\" Braila",
+    "jude\u0163": " Br\u0103ila",
+    "clasificare": "V"
+},
+{
+    "criteriu": 97,
+    "nume": "Spitalul Orasenesc Faurei",
+    "jude\u0163": " Br\u0103ila",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 98,
+    "nume": "Sp. de Psih. si pentru Masuri de Sig.Sapoca",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 100,
+    "nume": "Spitalul Municipal Rm.Sarat",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 101,
+    "nume": "Spitalul Orasenesc Nehoiu",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 102,
+    "nume": "Spitalul de Boli Cronice Smeeni",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "V"
+},
+{
+    "criteriu": 103,
+    "nume": "SC Sf Sava SRL Buz\u0103u",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "V"
+},
+{
+    "criteriu": 104,
+    "nume": "SC  Ecomed SRL Vintil\u0103 Vod\u0103",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "V"
+},
+{
+    "criteriu": 105,
+    "nume": "Institutul Oncologic \"Prof.Dr. Al. Trestioreanu\" Buc.",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IM"
+},
+{
+    "criteriu": 106,
+    "nume": "Instit. Pt. Ocrot. Mamei si Copilului \"Prof.Dr.A. Rusescu\"",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IM"
+},
+{
+    "criteriu": 107,
+    "nume": "Institutul Nat. de Endocrino. \"CI Parhon\" Bucuresti",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IM"
+},
+{
+    "criteriu": 108,
+    "nume": "Institutul Nat. de Geriatrie si Geront. \"Ana Aslan\" Buc.",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IM"
+},
+{
+    "criteriu": 109,
+    "nume": "Instit.Nat. de Boli Infectioase \"Prof.Dr.Matei Bals\"Buc.",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IM"
+},
+{
+    "criteriu": 110,
+    "nume": "Instit. de Fonoaudio. si Ch. Functionala ORL  B",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IM"
+},
+{
+    "criteriu": 111,
+    "nume": "Institutul de Pneumoftiziologie \"Marius Nasta\" Buc.",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IM"
+},
+{
+    "criteriu": 112,
+    "nume": "Inst. Nat. de Neurologie si Boli Neurovasculare Buc",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IM"
+},
+{
+    "criteriu": 113,
+    "nume": "Instit. Nat.de Diabet, N si Boli M\"Prof.Dr.N. Paulescu\"Buc",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IM"
+},
+{
+    "criteriu": 114,
+    "nume": "Instit. National de Rec. Med. Fizica si Balneclimat. Buc.",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IM"
+},
+{
+    "criteriu": 115,
+    "nume": "Institutul Clinic Fundeni Bucuresti",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IM"
+},
+{
+    "criteriu": 116,
+    "nume": "Instit. De Urg.pt. Boli Cardiovasc. \"Prof.Dr.CC Iliescu",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "I M"
+},
+{
+    "criteriu": 117,
+    "nume": "C. Med.Cl.de Rec.Neuro-psiho-mot copii\"Dr.N. Robanescu",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IIM"
+},
+{
+    "criteriu": 118,
+    "nume": "Spitalul Clinic \"Sf.Maria\"",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "II plan conf. "
+},
+{
+    "criteriu": 119,
+    "nume": "Spitalul Clinic \"Filantropia\"",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "II M"
+},
+{
+    "criteriu": 120,
+    "nume": "Spitalul Clinic de Nefrologie \"Dr.Carol Davila\"",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IIM"
+},
+{
+    "criteriu": 121,
+    "nume": "Sp. Cl. de Ch. oro-maxilo-fac. \"Prof.Dr.D. Teodorescu\"",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IIM"
+},
+{
+    "criteriu": 122,
+    "nume": "Centrul de Boli Reumatismale \"Dr. Ion Stoia\"",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "V"
+},
+{
+    "criteriu": 123,
+    "nume": "Spitalul Clinic \"Dr.Ion Cantacuzino\"",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "III plan conf. "
+},
+{
+    "criteriu": 124,
+    "nume": "Spitalul Clinic \"Colentina\"",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "II plan conf. "
+},
+{
+    "criteriu": 125,
+    "nume": "Spitalul Clinic \"N.Malaxa\"",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "III plan conf. "
+},
+{
+    "criteriu": 126,
+    "nume": "Spitalul Cl. de Ortopedie si TBC Osteoarticular \"Foisor\"",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "II M"
+},
+{
+    "criteriu": 127,
+    "nume": "Spitalul Clinic \"Coltea\"",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "III plan conf. "
+},
+{
+    "criteriu": 128,
+    "nume": "Spitalul Cl. de Boli Infectioase si Tropic. \"Dr.V.Babes\"",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IIM"
+},
+{
+    "criteriu": 129,
+    "nume": "Sp.Cl. Dermatovenero. \"Prof.Dr.S. Longhin\"",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IIM"
+},
+{
+    "criteriu": 130,
+    "nume": "Spitalul de Boli Cronice \"Sf.Luca\"",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "V"
+},
+{
+    "criteriu": 131,
+    "nume": "Spitalul Clinic \"Prof.dr.Th. Burghele\"",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "II M"
+},
+{
+    "criteriu": 132,
+    "nume": "Sp.Cl.de Obstetrica si Ginec.\"Prof.Dr.  P.Sarbu\"",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IIM"
+},
+{
+    "criteriu": 133,
+    "nume": "Spitalul Clinic de Urgenta Bucuresti",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "I plan conf. "
+},
+{
+    "criteriu": 134,
+    "nume": "Spitalul Clinic de Urgenta pt.Copii \"Gr.Alex.\"",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IM"
+},
+{
+    "criteriu": 135,
+    "nume": "Spitalul Clinic de Urgente Oftalmologice",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "I M"
+},
+{
+    "criteriu": 136,
+    "nume": "Sp. Cl. de Urg.de  Chirurgie Plastica Rep. si Arsuri",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "I M"
+},
+{
+    "criteriu": 137,
+    "nume": "Spitalul Clinic de Urgenta \"Sf.Pantelimon\"",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "II plan conf. "
+},
+{
+    "criteriu": 138,
+    "nume": "Spitalul de Pneumoftiziologie     \"Sf.Stefan\"",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "V"
+},
+{
+    "criteriu": 139,
+    "nume": "Spitalul Clinic de Copii \"Dr.V.Gomoiu\"",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IIM"
+},
+{
+    "criteriu": 140,
+    "nume": "Spitalul de Psihiatrie Titan Dr.Gh.Gorgos",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "V"
+},
+{
+    "criteriu": 141,
+    "nume": "Spitalul Clinic de Urgenta Copii \"M.S.Curie\"",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IIM"
+},
+{
+    "criteriu": 142,
+    "nume": "Spitalul Clinic de Psihiatrie \"Al. Obregia\"",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IM"
+},
+{
+    "criteriu": 143,
+    "nume": "Spitalul Clinic de Urgenta \"Bagdasar-Arseni\"",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "I M"
+},
+{
+    "criteriu": 144,
+    "nume": "Spitalul Clinic de Urgenta \"Sf.Ioan\"",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "II"
+},
+{
+    "criteriu": 145,
+    "nume": "Spitalul Universitar de Urgenta",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "I plan conf. "
+},
+{
+    "criteriu": 146,
+    "nume": "Centrul de Evaluare si Tratament a Toxicodependentelor pentru Copii si Tineri \"Sf.Stelian\"",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "V"
+},
+{
+    "criteriu": 147,
+    "nume": "Deltahealthcare SRL",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 148,
+    "nume": "Euroclinic Hospital",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 149,
+    "nume": "Centrul Medical Unirea",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IV "
+},
+{
+    "criteriu": 150,
+    "nume": "Clinic a de Angiografie si Terapia Endovasculara Hemodinamic SRL",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "V"
+},
+{
+    "criteriu": 151,
+    "nume": "Spital Oftalmologie Euroeye SRL",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "V"
+},
+{
+    "criteriu": 152,
+    "nume": "Clinica New Medics SRL sediu Secundar Oradea",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "NECLASIFICABIL"
+},
+{
+    "criteriu": 153,
+    "nume": "Spital SC Medlife SA",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "III plan conf. "
+},
+{
+    "criteriu": 157,
+    "nume": "Spitalul Militar Central",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "I  plan conf. "
+},
+{
+    "criteriu": 158,
+    "nume": "Spitalul Clinic CF Nr 1 \u00ab\u00a0Witting\u00a0\u00bb",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 159,
+    "nume": "Centrul de Sanatate RATB",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 160,
+    "nume": "Centrul Clinic de Urgenta Boli Cardiovasculare al Armatei C Zamfir",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "II M"
+},
+{
+    "criteriu": 161,
+    "nume": "Spital de Urgenta al MAI Prof D Gerota",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "II  plan conf. "
+},
+{
+    "criteriu": 162,
+    "nume": "Spital de Urgenta al SRI Prof Dr Agripa Ionescu",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "II  plan conf. "
+},
+{
+    "criteriu": 163,
+    "nume": "Spital Universitar de Urgenta Elias Bucuresti",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "II"
+},
+{
+    "criteriu": 164,
+    "nume": "SC Prain SRL",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "V"
+},
+{
+    "criteriu": 168,
+    "nume": "SCTinos SRL",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 169,
+    "nume": "SC Sanador SRL",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "III plan conf. "
+},
+{
+    "criteriu": 170,
+    "nume": "Spitalul Judetean de Urgenta Resita",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "III"
+},
+{
+    "criteriu": 171,
+    "nume": "Spitalul Municipal de Urgenta Caransebes",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "III plan conf."
+},
+{
+    "criteriu": 173,
+    "nume": "Spitalul Orasenesc Oravita",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 174,
+    "nume": "Spitalul Orasenesc Moldova Noua",
+    "jude\u0163": " Buz\u0103u",
+    "clasificare": "IV  plan conf."
+},
+{
+    "criteriu": 175,
+    "nume": "Spitalul Judetean de Urgenta  Calarasi",
+    "jude\u0163": " C\u0103l\u0103ra\u015fi",
+    "clasificare": "III plan conf."
+},
+{
+    "criteriu": 176,
+    "nume": "Spitalul de Pneumoftiziologie Calarasi",
+    "jude\u0163": " C\u0103l\u0103ra\u015fi",
+    "clasificare": "V"
+},
+{
+    "criteriu": 177,
+    "nume": "Spitalul de Psihiatrie Sapunari",
+    "jude\u0163": " C\u0103l\u0103ra\u015fi",
+    "clasificare": "V"
+},
+{
+    "criteriu": 178,
+    "nume": "Spitalul Municipal Oltenita",
+    "jude\u0163": " C\u0103l\u0103ra\u015fi",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 179,
+    "nume": "Spitalul Orasenesc Lehliu-Gara",
+    "jude\u0163": " C\u0103l\u0103ra\u015fi",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 180,
+    "nume": "Spitalul Clinic Judetean de Urgenta Cluj-Napoca",
+    "jude\u0163": " Cluj",
+    "clasificare": "I plan conf. "
+},
+{
+    "criteriu": 181,
+    "nume": "Spitalul Cl.de Urgenta pentru Copii Cluj-Napoca",
+    "jude\u0163": " Cluj",
+    "clasificare": "IIM"
+},
+{
+    "criteriu": 182,
+    "nume": "Instit. Cl. de Urologie si TranspL. Renal Cluj-N",
+    "jude\u0163": " Cluj",
+    "clasificare": "I M"
+},
+{
+    "criteriu": 183,
+    "nume": "Instit. Inimii de urg.pt.Boli Cv \"N. Stancioiu\"Cluj-N",
+    "jude\u0163": " Cluj",
+    "clasificare": "IM"
+},
+{
+    "criteriu": 184,
+    "nume": "Institutul Oncologic \"Prof.Dr.I. Chiricuta\" Cluj-N",
+    "jude\u0163": " Cluj",
+    "clasificare": "I M"
+},
+{
+    "criteriu": 185,
+    "nume": "Sp. Clinic de Pneumoft. \"Leon Danielo\" Cluj-N",
+    "jude\u0163": " Cluj",
+    "clasificare": "IIM"
+},
+{
+    "criteriu": 186,
+    "nume": "Spitalul Clinic de Boli Infectioase Cluj-Napoca",
+    "jude\u0163": " Cluj",
+    "clasificare": "II M"
+},
+{
+    "criteriu": 187,
+    "nume": "Spitalul Clinic de Recuperare Cluj-Napoca",
+    "jude\u0163": " Cluj",
+    "clasificare": "IIM"
+},
+{
+    "criteriu": 188,
+    "nume": "Spitalul de Boli Psihice Cronice Borsa",
+    "jude\u0163": " Cluj",
+    "clasificare": "V"
+},
+{
+    "criteriu": 189,
+    "nume": "Spitalul Clinic Municipal Cluj-Napoca",
+    "jude\u0163": " Cluj",
+    "clasificare": "II plan conf. "
+},
+{
+    "criteriu": 190,
+    "nume": "Spitalul Municipal Dej",
+    "jude\u0163": " Cluj",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 191,
+    "nume": "Spitalul Municipal Turda",
+    "jude\u0163": " Cluj",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 192,
+    "nume": "Spitalul Municipal Campia Turzii",
+    "jude\u0163": " Cluj",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 193,
+    "nume": "Spitalul Municipal Gherla",
+    "jude\u0163": " Cluj",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 194,
+    "nume": "Spitalul Orasenesc Huedin",
+    "jude\u0163": " Cluj",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 195,
+    "nume": "Inst. Reg. de Gastro-entero-Hepatologie",
+    "jude\u0163": " Cluj",
+    "clasificare": "IM"
+},
+{
+    "criteriu": 196,
+    "nume": "Spital Clinic Universitar CF Napoca",
+    "jude\u0163": " Cluj",
+    "clasificare": "                                               II plan conf. "
+},
+{
+    "criteriu": 197,
+    "nume": "Spitalul Militar de Urgenta Dr Constantin Papilian Cluj Napoca ",
+    "jude\u0163": " Cluj",
+    "clasificare": "III  plan conf. "
+},
+{
+    "criteriu": 198,
+    "nume": "Spital Penitenciar Dej",
+    "jude\u0163": " Cluj",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 199,
+    "nume": "Sp. Clinic de Rec., Medicina Fiz.si Baln.Ef.Nord",
+    "jude\u0163": " Constan\u0163a",
+    "clasificare": "II M"
+},
+{
+    "criteriu": 200,
+    "nume": "Sanatoriul Balnear si de Recuperare Mangalia",
+    "jude\u0163": " Constan\u0163a",
+    "clasificare": "V"
+},
+{
+    "criteriu": 201,
+    "nume": "Sanatoriul Balnear si de Recuperare Techirghiol",
+    "jude\u0163": " Constan\u0163a",
+    "clasificare": "V"
+},
+{
+    "criteriu": 202,
+    "nume": "Spitalul Clinic Judetean de Urgenta Constanta",
+    "jude\u0163": " Constan\u0163a",
+    "clasificare": "I plan conf. "
+},
+{
+    "criteriu": 203,
+    "nume": "Spitalul Cl.de Pneumoftiziologie Constanta",
+    "jude\u0163": " Constan\u0163a",
+    "clasificare": "II M plan conf. "
+},
+{
+    "criteriu": 204,
+    "nume": "Sp. de Ortopedie, Traumat.si Rec. Ef.Sud",
+    "jude\u0163": " Constan\u0163a",
+    "clasificare": "V"
+},
+{
+    "criteriu": 205,
+    "nume": "Spitalul de Ftiziologie Agigea",
+    "jude\u0163": " Constan\u0163a",
+    "clasificare": "V"
+},
+{
+    "criteriu": 206,
+    "nume": "Spitalul Clinic de Boli Infectioase Constanta",
+    "jude\u0163": " Constan\u0163a",
+    "clasificare": "II M"
+},
+{
+    "criteriu": 207,
+    "nume": "Spitalul Municipal Mangalia",
+    "jude\u0163": " Constan\u0163a",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 208,
+    "nume": "Spitalul Municipal Medgidia",
+    "jude\u0163": " Constan\u0163a",
+    "clasificare": "III plan conf. "
+},
+{
+    "criteriu": 209,
+    "nume": "Spitalul Orasenesc Cernavoda",
+    "jude\u0163": " Constan\u0163a",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 210,
+    "nume": "Spitalul Orasenesc Harsova",
+    "jude\u0163": " Constan\u0163a",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 211,
+    "nume": "Spital Clinic CF Constanta",
+    "jude\u0163": " Constan\u0163a",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 212,
+    "nume": "Spital Militar de Urgenta Dr Al Gafencu Constanta",
+    "jude\u0163": " Constan\u0163a",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 213,
+    "nume": "Spital Penitenciar Poarta Alba Constanta",
+    "jude\u0163": " Constan\u0163a",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 214,
+    "nume": "Spital Euromaterna Constanta",
+    "jude\u0163": " Constan\u0163a",
+    "clasificare": "V"
+},
+{
+    "criteriu": 215,
+    "nume": "SC Isis Medical Center SRL Constanta",
+    "jude\u0163": " Constan\u0163a",
+    "clasificare": "V"
+},
+{
+    "criteriu": 216,
+    "nume": "Centru Medical Medstar 2000 SRL",
+    "jude\u0163": " Constan\u0163a",
+    "clasificare": "V"
+},
+{
+    "criteriu": 217,
+    "nume": "SC ASCLEPIOS SRL CONSTANTA \u2013 Sanatoriu Balnear Vraja Marii Eforie Sud",
+    "jude\u0163": " Constan\u0163a",
+    "clasificare": "V"
+},
+{
+    "criteriu": 218,
+    "nume": "SC Medical Analysis SRL Constanta",
+    "jude\u0163": " Constan\u0163a",
+    "clasificare": "V"
+},
+{
+    "criteriu": 219,
+    "nume": "Centrul de Ingrijiri Paliative Casa Soarelui",
+    "jude\u0163": " Constan\u0163a",
+    "clasificare": "V"
+},
+{
+    "criteriu": 221,
+    "nume": "Spitalul de Cardiologie Covasna - CV",
+    "jude\u0163": " Covasna",
+    "clasificare": "V"
+},
+{
+    "criteriu": 222,
+    "nume": "Centr. de Patol. Neuromusc.\"Radu Horia \" Valcele",
+    "jude\u0163": " Covasna",
+    "clasificare": "V"
+},
+{
+    "criteriu": 223,
+    "nume": "Sp. Jud.de Urg.\"Dr.Fogolyan Kristof\" Sf.Gheorghe",
+    "jude\u0163": " Covasna",
+    "clasificare": "III"
+},
+{
+    "criteriu": 224,
+    "nume": "Spitalul Municipal Tg.Secuiesc",
+    "jude\u0163": " Covasna",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 225,
+    "nume": "Spitalul Orasenesc Covasna",
+    "jude\u0163": " Covasna",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 226,
+    "nume": "Spitalul Orasenesc Baraolt",
+    "jude\u0163": " Covasna",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 227,
+    "nume": "Spital Obstetrica Ginecologie Sancraieni",
+    "jude\u0163": " Covasna",
+    "clasificare": "V"
+},
+{
+    "criteriu": 228,
+    "nume": "Spitalul Judetean de Urgenta Targoviste",
+    "jude\u0163": " D\u00e2mbovi\u0163a",
+    "clasificare": "III"
+},
+{
+    "criteriu": 229,
+    "nume": "Spitalul Orasenesc Gaesti",
+    "jude\u0163": " D\u00e2mbovi\u0163a",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 230,
+    "nume": "Spitalul Municipal Moreni",
+    "jude\u0163": " D\u00e2mbovi\u0163a",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 231,
+    "nume": "Spitalul Orasenesc Pucioasa",
+    "jude\u0163": " D\u00e2mbovi\u0163a",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 232,
+    "nume": "Centrul de Cardiologie Craiova",
+    "jude\u0163": " Dolj",
+    "clasificare": "IIM plan conf. "
+},
+{
+    "criteriu": 233,
+    "nume": "Spitalul de Psihiatrie Poiana Mare",
+    "jude\u0163": " Dolj",
+    "clasificare": "V"
+},
+{
+    "criteriu": 234,
+    "nume": "Spitalul Clinic Jud. de Urgenta Craiova",
+    "jude\u0163": " Dolj",
+    "clasificare": "II plan conf. "
+},
+{
+    "criteriu": 235,
+    "nume": "Spitalul de Pneumoftiziologie Leamna",
+    "jude\u0163": " Dolj",
+    "clasificare": "V"
+},
+{
+    "criteriu": 236,
+    "nume": "Sp.Oras.\"Asezamintele Brancovenesti\" Dabuleni",
+    "jude\u0163": " Dolj",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 237,
+    "nume": "Spitalul Cl. Municip. \"Filantropia\" Craiova",
+    "jude\u0163": " Dolj",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 238,
+    "nume": "Sp. Clinic de Boli Infectioase si Pneumoft.C",
+    "jude\u0163": " Dolj",
+    "clasificare": "IIM plan conf. "
+},
+{
+    "criteriu": 239,
+    "nume": "Spitalul Clinic de Neuropsihiatrie Craiova",
+    "jude\u0163": " Dolj",
+    "clasificare": "IIM plan conf. "
+},
+{
+    "criteriu": 240,
+    "nume": "Spitalul Filisanilor  - Filiasi",
+    "jude\u0163": " Dolj",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 241,
+    "nume": "Spitalul Municipal Bailesti",
+    "jude\u0163": " Dolj",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 242,
+    "nume": "Spitalul Municipal Calafat",
+    "jude\u0163": " Dolj",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 243,
+    "nume": "Spitalul Orasenesc Segarcea",
+    "jude\u0163": " Dolj",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 244,
+    "nume": "Spitalul Clinic CF Craiova",
+    "jude\u0163": " Dolj",
+    "clasificare": "IV  plan conf. "
+},
+{
+    "criteriu": 245,
+    "nume": "Spitalul Clinic de Urgenta Militar Dr St Odobleja Craiova",
+    "jude\u0163": " Dolj",
+    "clasificare": "IV  plan conf. "
+},
+{
+    "criteriu": 247,
+    "nume": "Sp. Cl. Jud.de Urgenta \"Sf.Apostol Andrei\"",
+    "jude\u0163": " Gala\u0163i",
+    "clasificare": "II plan conf. "
+},
+{
+    "criteriu": 248,
+    "nume": "Spitalul de Pneumoftiziologie Galati",
+    "jude\u0163": " Gala\u0163i",
+    "clasificare": "V"
+},
+{
+    "criteriu": 249,
+    "nume": "Sp. de Boli Infect. \"Cuvioasa Parascheva\" Galati",
+    "jude\u0163": " Gala\u0163i",
+    "clasificare": "V"
+},
+{
+    "criteriu": 250,
+    "nume": "Spitalul Cl.de Urgenta pt. Copii \"Sf.Ioan\" Galati",
+    "jude\u0163": " Gala\u0163i",
+    "clasificare": "IIM"
+},
+{
+    "criteriu": 251,
+    "nume": "Spitalul de Obst.-Ginecologie \"Buna Vestire\"Galati",
+    "jude\u0163": " Gala\u0163i",
+    "clasificare": "V"
+},
+{
+    "criteriu": 252,
+    "nume": "Spitalul de Psihiatrie  \"Elisabeta Doamna\"Galati",
+    "jude\u0163": " Gala\u0163i",
+    "clasificare": "V"
+},
+{
+    "criteriu": 253,
+    "nume": "Spitalul Municipal \"Anton Cincu\"Tecuci",
+    "jude\u0163": " Gala\u0163i",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 254,
+    "nume": "Spitalul Orasenesc Tg.Bujor",
+    "jude\u0163": " Gala\u0163i",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 255,
+    "nume": "Spitalul Gen C.F.",
+    "jude\u0163": " Gala\u0163i",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 256,
+    "nume": "Spitalul Militar de Urgenta Dr Aristide Serfioti",
+    "jude\u0163": " Gala\u0163i",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 257,
+    "nume": "Spitalul Judetean de Urgenta Giurgiu",
+    "jude\u0163": " Giurgiu",
+    "clasificare": "III plan conf. "
+},
+{
+    "criteriu": 258,
+    "nume": "Spitalul de Psihiatrie Vadu Lat",
+    "jude\u0163": " Giurgiu",
+    "clasificare": "V"
+},
+{
+    "criteriu": 259,
+    "nume": "Spitalul de Pneumoftiziologie Izvoru",
+    "jude\u0163": " Giurgiu",
+    "clasificare": "V"
+},
+{
+    "criteriu": 260,
+    "nume": "Spitalul de Boli Infectioase Singureni",
+    "jude\u0163": " Giurgiu",
+    "clasificare": "V"
+},
+{
+    "criteriu": 261,
+    "nume": "Spitalul Orasenesc Bolintin Vale",
+    "jude\u0163": " Giurgiu",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 262,
+    "nume": "Spitalul Judetean de Urgenta      Targu Jiu",
+    "jude\u0163": " Gorj",
+    "clasificare": "III "
+},
+{
+    "criteriu": 263,
+    "nume": "Spitalul de Pneumoft.\"T. Vladimirescu\"- Runcu",
+    "jude\u0163": " Gorj",
+    "clasificare": "V"
+},
+{
+    "criteriu": 264,
+    "nume": "Spitalul Municipal Motru",
+    "jude\u0163": " Gorj",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 265,
+    "nume": "Spitalul Orasenesc Novaci",
+    "jude\u0163": " Gorj",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 266,
+    "nume": "Spitalul Orasenesc Rovinari",
+    "jude\u0163": " Gorj",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 267,
+    "nume": "Spitalul Orasenesc Tg.Carbunesti",
+    "jude\u0163": " Gorj",
+    "clasificare": "III plan conf. "
+},
+{
+    "criteriu": 268,
+    "nume": "Spitalul Orasenesc  Turceni",
+    "jude\u0163": " Gorj",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 269,
+    "nume": "Spitalul Judetean de Urgenta  Miercurea Ciuc",
+    "jude\u0163": " Harghita",
+    "clasificare": "III"
+},
+{
+    "criteriu": 270,
+    "nume": "Spitalul de Psihiatrie Tulghes",
+    "jude\u0163": " Harghita",
+    "clasificare": "V"
+},
+{
+    "criteriu": 271,
+    "nume": "Spitalul Municipal Odorheiu Secuiesc",
+    "jude\u0163": " Harghita",
+    "clasificare": "III plan conf. "
+},
+{
+    "criteriu": 272,
+    "nume": "Spitalul Municipal Gheorghieni",
+    "jude\u0163": " Harghita",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 273,
+    "nume": "Spitalul Municipal Toplita",
+    "jude\u0163": " Harghita",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 274,
+    "nume": "Sp.de Psihiatrie  Zam",
+    "jude\u0163": " Hunedoara",
+    "clasificare": "V"
+},
+{
+    "criteriu": 275,
+    "nume": "Spitalul Judetean de Urgenta Deva",
+    "jude\u0163": " Hunedoara",
+    "clasificare": "III plan conf. "
+},
+{
+    "criteriu": 276,
+    "nume": "Sanatoriul de Pneumoftizio. Geoagiu",
+    "jude\u0163": " Hunedoara",
+    "clasificare": "V"
+},
+{
+    "criteriu": 277,
+    "nume": "Sanatoriul de Pneumoftizio. Brad",
+    "jude\u0163": " Hunedoara",
+    "clasificare": "V"
+},
+{
+    "criteriu": 278,
+    "nume": "Spitalul Municipal \"Dr.A. Simionescu\" Hunedoara",
+    "jude\u0163": " Hunedoara",
+    "clasificare": "III plan conf. "
+},
+{
+    "criteriu": 279,
+    "nume": "Spitalul de Urgenta Petrosani",
+    "jude\u0163": " Hunedoara",
+    "clasificare": "III plan conf. "
+},
+{
+    "criteriu": 280,
+    "nume": "Spitalul Municipal Orastie",
+    "jude\u0163": " Hunedoara",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 281,
+    "nume": "Spitalul Municipal Brad",
+    "jude\u0163": " Hunedoara",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 282,
+    "nume": "Spitalul Orasenesc Hateg",
+    "jude\u0163": " Hunedoara",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 283,
+    "nume": "Spitalul Municipal Lupeni",
+    "jude\u0163": " Hunedoara",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 284,
+    "nume": "Spitalul Municipal Vulcan",
+    "jude\u0163": " Hunedoara",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 285,
+    "nume": "Spitalul General CF Simeria",
+    "jude\u0163": " Hunedoara",
+    "clasificare": "IV  plan conf. "
+},
+{
+    "criteriu": 286,
+    "nume": "Spitalul Judetean de Urgenta Slobozia",
+    "jude\u0163": " Ialomi\u0163a",
+    "clasificare": "III"
+},
+{
+    "criteriu": 287,
+    "nume": "Spitalul Municipal Urziceni",
+    "jude\u0163": " Ialomi\u0163a",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 288,
+    "nume": "Spitalul Municipal Fetesti",
+    "jude\u0163": " Ialomi\u0163a",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 289,
+    "nume": "Instit. de B Cardiovasc. \"Prof.Dr.G.I.M. Georgescu\"",
+    "jude\u0163": " Ia\u015fi",
+    "clasificare": "I M"
+},
+{
+    "criteriu": 290,
+    "nume": "Sp. de Psih. si pentru Masuri de Sig.Pad-Grajduri",
+    "jude\u0163": " Ia\u015fi",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 291,
+    "nume": "Spitalul Clinic de Psihiatrie \"Socola\" Ias",
+    "jude\u0163": " Ia\u015fi",
+    "clasificare": "II M"
+},
+{
+    "criteriu": 292,
+    "nume": "Spitalul Clinic de Urg. \"Prof.Dr.Nicolae Oblu\" Iasi",
+    "jude\u0163": " Ia\u015fi",
+    "clasificare": "II M "
+},
+{
+    "criteriu": 293,
+    "nume": "Spitalul Clinic de Urg. Pt. Copii\"Sf.Maria\" Iasi",
+    "jude\u0163": " Ia\u015fi",
+    "clasificare": "II M plan conf. "
+},
+{
+    "criteriu": 294,
+    "nume": "Spitalul Cl.Obst-Ginec.\"Elena Doamna\"Iasi",
+    "jude\u0163": " Ia\u015fi",
+    "clasificare": "II M"
+},
+{
+    "criteriu": 295,
+    "nume": "Sp. Clinic de Boli Infectioase  \"Sf.Paraschiva\" Iasi",
+    "jude\u0163": " Ia\u015fi",
+    "clasificare": "II M plan conf. "
+},
+{
+    "criteriu": 296,
+    "nume": "Spitalul Cl.de Obst.-Ginecologie \"Cuza Voda\"Iasi",
+    "jude\u0163": " Ia\u015fi",
+    "clasificare": "II M"
+},
+{
+    "criteriu": 297,
+    "nume": "Spitalul Clinic de Pneumoftiziologie Iasi",
+    "jude\u0163": " Ia\u015fi",
+    "clasificare": "IIM"
+},
+{
+    "criteriu": 298,
+    "nume": "Sp. Clinic Judetean de Urgenta \"Sf.Spiridon\" Iasi",
+    "jude\u0163": " Ia\u015fi",
+    "clasificare": "I plan conf. "
+},
+{
+    "criteriu": 299,
+    "nume": "Spitalul Clinic \"Dr.C.I.Parhon\" Iasi",
+    "jude\u0163": " Ia\u015fi",
+    "clasificare": "II M"
+},
+{
+    "criteriu": 300,
+    "nume": "Spitalul Clinic de Recuperare Iasi",
+    "jude\u0163": " Ia\u015fi",
+    "clasificare": "II M"
+},
+{
+    "criteriu": 301,
+    "nume": "Spitalul Municipal Pascani",
+    "jude\u0163": " Ia\u015fi",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 302,
+    "nume": "Spitalul Orasenesc Harlau",
+    "jude\u0163": " Ia\u015fi",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 303,
+    "nume": "Preventoriul TBC pt. Copii Deleni",
+    "jude\u0163": " Ia\u015fi",
+    "clasificare": "V"
+},
+{
+    "criteriu": 304,
+    "nume": "Spitalul Clinic Militar de Urgenta",
+    "jude\u0163": " Ia\u015fi",
+    "clasificare": "III  plan conf. "
+},
+{
+    "criteriu": 305,
+    "nume": "Spitalul CF Pa\u015fcani",
+    "jude\u0163": " Ia\u015fi",
+    "clasificare": "IV - plan conf. "
+},
+{
+    "criteriu": 306,
+    "nume": "Spitalul Clinic CF Iasi",
+    "jude\u0163": " Ia\u015fi",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 307,
+    "nume": "Spitalul Arcadia Cardio",
+    "jude\u0163": " Ia\u015fi",
+    "clasificare": "V"
+},
+{
+    "criteriu": 308,
+    "nume": "Spitalul Providen\u0163a",
+    "jude\u0163": " Ia\u015fi",
+    "clasificare": "IV  plan conf.  "
+},
+{
+    "criteriu": 309,
+    "nume": "Memory Hospital Comuna Valea Lupului",
+    "jude\u0163": " Ia\u015fi",
+    "clasificare": "V"
+},
+{
+    "criteriu": 310,
+    "nume": "Arcadia Hospital",
+    "jude\u0163": " Ia\u015fi",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 311,
+    "nume": "Spitalul Clinic  Judetean de Urgenta Ilfov",
+    "jude\u0163": " Ilfov",
+    "clasificare": "III"
+},
+{
+    "criteriu": 312,
+    "nume": "Spitalul de Psihiatrie \"Eftimie Diamandescu\"Balaceanca",
+    "jude\u0163": " Ilfov",
+    "clasificare": "V"
+},
+{
+    "criteriu": 313,
+    "nume": "Spitalul Penitenciar Jilava",
+    "jude\u0163": " Ilfov",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 314,
+    "nume": "Spital SC Oxxygene Med Plus SRL Otopeni",
+    "jude\u0163": " Ilfov",
+    "clasificare": "V"
+},
+{
+    "criteriu": 315,
+    "nume": "Spital Sf Irina Voluntari",
+    "jude\u0163": " Ilfov",
+    "clasificare": "V"
+},
+{
+    "criteriu": 316,
+    "nume": "Spitalul de Recuperare Borsa",
+    "jude\u0163": " Maramure\u015f",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 317,
+    "nume": "Sp. Jud. de Urgenta\"Dr.C-tin.Opris\" Baia Mare",
+    "jude\u0163": " Maramure\u015f",
+    "clasificare": "III plan conf. "
+},
+{
+    "criteriu": 318,
+    "nume": "Spitalul de Boli Infectioase, Dermatovener. si Psihiatrie",
+    "jude\u0163": " Maramure\u015f",
+    "clasificare": "V"
+},
+{
+    "criteriu": 319,
+    "nume": "Spitalul de Pneumoftiziologie Baia Mare",
+    "jude\u0163": " Maramure\u015f",
+    "clasificare": "V"
+},
+{
+    "criteriu": 320,
+    "nume": "Spitalul Municipal Sighetu Marmatiei",
+    "jude\u0163": " Maramure\u015f",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 321,
+    "nume": "Spitalul Orasenesc Viseul de Sus",
+    "jude\u0163": " Maramure\u015f",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 322,
+    "nume": "Spitalul Orasenesc Targu Lapus",
+    "jude\u0163": " Maramure\u015f",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 323,
+    "nume": "Spitalul de Psihiatrie  Cavnic",
+    "jude\u0163": " Maramure\u015f",
+    "clasificare": "V"
+},
+{
+    "criteriu": 324,
+    "nume": "SC Euromedica Hospital SA",
+    "jude\u0163": " Maramure\u015f",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 325,
+    "nume": "SC Che Cosmedica SRL",
+    "jude\u0163": " Maramure\u015f",
+    "clasificare": "V"
+},
+{
+    "criteriu": 326,
+    "nume": "Spitalul Judetean de Urgenta Drobeta Tr.Severin",
+    "jude\u0163": " Mehedin\u0163i",
+    "clasificare": "III plan conf. "
+},
+{
+    "criteriu": 327,
+    "nume": "Spitalul Municipal Orsova",
+    "jude\u0163": " Mehedin\u0163i",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 328,
+    "nume": "Spitalul Orasenesc Baia de Arama",
+    "jude\u0163": " Mehedin\u0163i",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 329,
+    "nume": "Spital General CF Drobeta Tr Severin",
+    "jude\u0163": " Mehedin\u0163i",
+    "clasificare": "IV  plan conf. "
+},
+{
+    "criteriu": 330,
+    "nume": "Spitalul Clinic Judetean de Urgenta Tg.Mures",
+    "jude\u0163": " Mure\u015f",
+    "clasificare": "I plan conf. "
+},
+{
+    "criteriu": 331,
+    "nume": "Spitalul Clinic Judetean Mures",
+    "jude\u0163": " Mure\u015f",
+    "clasificare": "II "
+},
+{
+    "criteriu": 332,
+    "nume": "Spitalul Municipal \"Dr.Gh. Marinescu\" Tarnaveni",
+    "jude\u0163": " Mure\u015f",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 333,
+    "nume": "Preventoriul TBC Gornesti",
+    "jude\u0163": " Mure\u015f",
+    "clasificare": "V"
+},
+{
+    "criteriu": 334,
+    "nume": "Spitalul Municipal \"Dr.E.Nicoara\" Reghin",
+    "jude\u0163": " Mure\u015f",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 335,
+    "nume": "Spitalul Municipal Sighisoara",
+    "jude\u0163": " Mure\u015f",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 336,
+    "nume": "Spitalul Orasenesc\"Dr. Valer Russu\"Ludus",
+    "jude\u0163": " Mure\u015f",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 337,
+    "nume": "Centrul de Sanatate Sovata",
+    "jude\u0163": " Mure\u015f",
+    "clasificare": "V plan conf. "
+},
+{
+    "criteriu": 338,
+    "nume": "Spitalul Orasenesc  Sangeorgiu de Padure",
+    "jude\u0163": " Mure\u015f",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 339,
+    "nume": "Centrul de Sanatate Miercurea Niraj",
+    "jude\u0163": " Mure\u015f",
+    "clasificare": "V plan conf. "
+},
+{
+    "criteriu": 340,
+    "nume": "S.C. Nova Vita Hospital",
+    "jude\u0163": " Mure\u015f",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 341,
+    "nume": "SC  Cosamext SRL \u2013 Centrul Medical Tg Mures",
+    "jude\u0163": " Mure\u015f",
+    "clasificare": "V"
+},
+{
+    "criteriu": 342,
+    "nume": "Cardiomed SRL Tg Mures",
+    "jude\u0163": " Mure\u015f",
+    "clasificare": "V"
+},
+{
+    "criteriu": 343,
+    "nume": "Centrul Medical Galenus SC Adriamed SRL",
+    "jude\u0163": " Mure\u015f",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 344,
+    "nume": "SC Centrul Medical Topmed SRL",
+    "jude\u0163": " Mure\u015f",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 346,
+    "nume": "Spitalul Municipal de Urgenta  Roman",
+    "jude\u0163": " Neam\u0163",
+    "clasificare": "III plan conf. "
+},
+{
+    "criteriu": 347,
+    "nume": "Spitalul de  Psihiatie",
+    "jude\u0163": " Neam\u0163",
+    "clasificare": "V"
+},
+{
+    "criteriu": 348,
+    "nume": "Spitalul Orasenesc Tg.Neamt",
+    "jude\u0163": " Neam\u0163",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 349,
+    "nume": "Spital de Pneumoftiziologie Bisericani",
+    "jude\u0163": " Neam\u0163",
+    "clasificare": "V"
+},
+{
+    "criteriu": 350,
+    "nume": "Spitalul Judetean de Urgenta Slatina",
+    "jude\u0163": " Olt",
+    "clasificare": "III"
+},
+{
+    "criteriu": 351,
+    "nume": "Spitalul de Psihiatrie Cronici Schitu Greci",
+    "jude\u0163": " Olt",
+    "clasificare": "V"
+},
+{
+    "criteriu": 352,
+    "nume": "Spitalul Municipal Caracal",
+    "jude\u0163": " Olt",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 353,
+    "nume": "Spitalul Orasenesc Bals",
+    "jude\u0163": " Olt",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 354,
+    "nume": "Spitalul Orasenesc Corabia",
+    "jude\u0163": " Olt",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 355,
+    "nume": "Spitalul de Pneumoftiziologie Scornicesti",
+    "jude\u0163": " Olt",
+    "clasificare": "V"
+},
+{
+    "criteriu": 356,
+    "nume": "Sanatoriul Balneoclimateric de Copii Busteni",
+    "jude\u0163": " Prahova",
+    "clasificare": "V"
+},
+{
+    "criteriu": 357,
+    "nume": "Spitalul Judetean de Urgenta Ploiesti",
+    "jude\u0163": " Prahova",
+    "clasificare": "III"
+},
+{
+    "criteriu": 358,
+    "nume": "Spitalul de Obstetrica-Ginecologie Ploiesti",
+    "jude\u0163": " Prahova",
+    "clasificare": "V"
+},
+{
+    "criteriu": 359,
+    "nume": "Spitalul Municipal Ploiesti",
+    "jude\u0163": " Prahova",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 360,
+    "nume": "Spitalul de Pediatrie Ploiesti",
+    "jude\u0163": " Prahova",
+    "clasificare": "V"
+},
+{
+    "criteriu": 361,
+    "nume": "Spitalul de Boli Infectioase Ploiesti",
+    "jude\u0163": " Prahova",
+    "clasificare": "V"
+},
+{
+    "criteriu": 362,
+    "nume": "Spitalul de Psihiatrie Voila",
+    "jude\u0163": " Prahova",
+    "clasificare": "V"
+},
+{
+    "criteriu": 363,
+    "nume": "Spitalul Municipal Campina",
+    "jude\u0163": " Prahova",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 364,
+    "nume": "Spitalul Orasenesc Valenii de Munte",
+    "jude\u0163": " Prahova",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 365,
+    "nume": "Spitalul de Ortopedie si Traumatologie Azuga",
+    "jude\u0163": " Prahova",
+    "clasificare": "V"
+},
+{
+    "criteriu": 366,
+    "nume": "Spitalul Orasenesc Baicoi",
+    "jude\u0163": " Prahova",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 367,
+    "nume": "Spitalul Orasenesc\"Sf.Filoftea\" Mizil",
+    "jude\u0163": " Prahova",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 368,
+    "nume": "Spitalul Orasenesc Sinaia",
+    "jude\u0163": " Prahova",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 369,
+    "nume": "Spitalul de Boli Pulmonare Breaza",
+    "jude\u0163": " Prahova",
+    "clasificare": "V"
+},
+{
+    "criteriu": 370,
+    "nume": "Spitalul de Pneumftiziologie Drajna",
+    "jude\u0163": " Prahova",
+    "clasificare": "V"
+},
+{
+    "criteriu": 371,
+    "nume": "Spitalul de Pneumoftiziologie Floresti",
+    "jude\u0163": " Prahova",
+    "clasificare": "V"
+},
+{
+    "criteriu": 372,
+    "nume": "Spital CF Ploie\u015fti",
+    "jude\u0163": " Prahova",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 373,
+    "nume": "SC Best Medserv SRL",
+    "jude\u0163": " Prahova",
+    "clasificare": "V"
+},
+{
+    "criteriu": 374,
+    "nume": "Spitalul Judetean de Urgenta Satu Mare",
+    "jude\u0163": " Satu-Mare",
+    "clasificare": "III plan conf. "
+},
+{
+    "criteriu": 375,
+    "nume": "Spitalul de Pneumoftiziologie Satu Mare",
+    "jude\u0163": " Satu-Mare",
+    "clasificare": "V"
+},
+{
+    "criteriu": 376,
+    "nume": "Spitalul Municipal Carei",
+    "jude\u0163": " Satu-Mare",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 377,
+    "nume": "Spitalul Orasenesc Negresti Oas",
+    "jude\u0163": " Satu-Mare",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 378,
+    "nume": "SC Manitov Med SRL Clinica Gynoprax",
+    "jude\u0163": " Satu-Mare",
+    "clasificare": "V"
+},
+{
+    "criteriu": 379,
+    "nume": "Spitalul Judetean de Urgenta Zalau",
+    "jude\u0163": " S\u0103laj",
+    "clasificare": "III"
+},
+{
+    "criteriu": 380,
+    "nume": "Spitalul Orasenesc Simleu Silvaniei",
+    "jude\u0163": " S\u0103laj",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 381,
+    "nume": "Spitalul Orasenesc Jibou",
+    "jude\u0163": " S\u0103laj",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 382,
+    "nume": "Spitalul de Boli Cronice Crasna",
+    "jude\u0163": " S\u0103laj",
+    "clasificare": "V"
+},
+{
+    "criteriu": 383,
+    "nume": "Fundatia Acasa Zalau \u2013 Centrul de Recuperare Tratament si Ingrijire",
+    "jude\u0163": " S\u0103laj",
+    "clasificare": "V"
+},
+{
+    "criteriu": 384,
+    "nume": "SC Salvosan Ciobanca SRL",
+    "jude\u0163": " S\u0103laj",
+    "clasificare": "V"
+},
+{
+    "criteriu": 385,
+    "nume": "Spitalul Clinic Judetean de Urgenta Sibiu",
+    "jude\u0163": " Sibiu",
+    "clasificare": "II plan conf. "
+},
+{
+    "criteriu": 386,
+    "nume": "Spitalul de Psihiatrie \"Dr.Gh.Preda\" Sibiu",
+    "jude\u0163": " Sibiu",
+    "clasificare": "V"
+},
+{
+    "criteriu": 387,
+    "nume": "Spitalul de Pneumoftiziologie Sibiu ",
+    "jude\u0163": " Sibiu",
+    "clasificare": "V"
+},
+{
+    "criteriu": 388,
+    "nume": "Spitalul Clinic de Pediatrie Sibiu",
+    "jude\u0163": " Sibiu",
+    "clasificare": "II M"
+},
+{
+    "criteriu": 389,
+    "nume": "Spitalul Municipal Medias",
+    "jude\u0163": " Sibiu",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 390,
+    "nume": "Spitalul Orasenesc Agnita",
+    "jude\u0163": " Sibiu",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 391,
+    "nume": "Spital Militar de Urgen\u0163a Alexandru Augustin",
+    "jude\u0163": " Sibiu",
+    "clasificare": "III  plan conf. "
+},
+{
+    "criteriu": 392,
+    "nume": "Spital General CF Sibiu",
+    "jude\u0163": " Sibiu",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 393,
+    "nume": "Centrul de \u00cengrijiri Paliative Hospice Asocia\u0163ia Carl Wolff",
+    "jude\u0163": " Sibiu",
+    "clasificare": "V"
+},
+{
+    "criteriu": 394,
+    "nume": "SC Centrul Medical Polisano SRL Sibiu",
+    "jude\u0163": " Sibiu",
+    "clasificare": "IV "
+},
+{
+    "criteriu": 395,
+    "nume": "Sp. Jud. de Urgenta Suceava \"Sf.Ioan cel Nou\"",
+    "jude\u0163": " Suceava",
+    "clasificare": "III"
+},
+{
+    "criteriu": 396,
+    "nume": "Spitalul Municipal Campulung Moldovenesc",
+    "jude\u0163": " Suceava",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 397,
+    "nume": "Spitalul Municipal Falticeni",
+    "jude\u0163": " Suceava",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 398,
+    "nume": "Spitalul Municipal Radauti",
+    "jude\u0163": " Suceava",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 399,
+    "nume": "Spitalul Municipal Vatra Dornei",
+    "jude\u0163": " Suceava",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 400,
+    "nume": "Spitalul de Psihiatrie Campulung Moldovenesc",
+    "jude\u0163": " Suceava",
+    "clasificare": "V"
+},
+{
+    "criteriu": 401,
+    "nume": "Spitalul Orasenesc Gura Humorului",
+    "jude\u0163": " Suceava",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 402,
+    "nume": "Spitalul Orasenesc Siret",
+    "jude\u0163": " Suceava",
+    "clasificare": "V"
+},
+{
+    "criteriu": 403,
+    "nume": "Spitalul de Psihiatrie Cronici Siret",
+    "jude\u0163": " Suceava",
+    "clasificare": "V"
+},
+{
+    "criteriu": 404,
+    "nume": "Bethesda",
+    "jude\u0163": " Suceava",
+    "clasificare": "V"
+},
+{
+    "criteriu": 405,
+    "nume": "Spitalul Judetean de Urgenta Alexandria",
+    "jude\u0163": " Teleorman",
+    "clasificare": "III plan conf. "
+},
+{
+    "criteriu": 406,
+    "nume": "Spitalul de Psihiatrie Cronici Balaci",
+    "jude\u0163": " Teleorman",
+    "clasificare": "V"
+},
+{
+    "criteriu": 407,
+    "nume": "Spitalul de Pneumoftiziologie Rosiori de Vede",
+    "jude\u0163": " Teleorman",
+    "clasificare": "V"
+},
+{
+    "criteriu": 408,
+    "nume": "Spitalul de Psihiatrie Poroschia",
+    "jude\u0163": " Teleorman",
+    "clasificare": "V"
+},
+{
+    "criteriu": 409,
+    "nume": "Spitalul Municipal \"Caritas\"Rosiori de Vede",
+    "jude\u0163": " Teleorman",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 410,
+    "nume": "Spitalul Municipal Turnu Magurele",
+    "jude\u0163": " Teleorman",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 411,
+    "nume": "Spitalul Orasenesc Zimnicea",
+    "jude\u0163": " Teleorman",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 412,
+    "nume": "Spitalul Orasenesc  MAI Videle",
+    "jude\u0163": " Teleorman",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 413,
+    "nume": "Spitalul Clinic Judetean de Urgenta Timisoara",
+    "jude\u0163": " Timi\u015f",
+    "clasificare": "I plan conf. "
+},
+{
+    "criteriu": 414,
+    "nume": "Sp. de Psih. si pentru Masuri de Siguranta Jebel",
+    "jude\u0163": " Timi\u015f",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 415,
+    "nume": "Spitalul de Psihiatrie Gataia",
+    "jude\u0163": " Timi\u015f",
+    "clasificare": "V"
+},
+{
+    "criteriu": 416,
+    "nume": "Centr. M.Cl. de Eval si Rec.pt.C si T \"C.Serban\"",
+    "jude\u0163": " Timi\u015f",
+    "clasificare": "II M"
+},
+{
+    "criteriu": 417,
+    "nume": "Institutul de Boli Cardiovasculare Timisoara",
+    "jude\u0163": " Timi\u015f",
+    "clasificare": "I M"
+},
+{
+    "criteriu": 418,
+    "nume": "Spitalul Clinic Municipal de Urgenta Timisoara",
+    "jude\u0163": " Timi\u015f",
+    "clasificare": "II plan conf. "
+},
+{
+    "criteriu": 419,
+    "nume": "Sp. Clinic de Urg. pentru Copii\"L. Turcanu\"T",
+    "jude\u0163": " Timi\u015f",
+    "clasificare": "IIM"
+},
+{
+    "criteriu": 420,
+    "nume": "Sp. Cl. de Boli Infect. si Pneumoft.\"Dr.V.Babes\"T",
+    "jude\u0163": " Timi\u015f",
+    "clasificare": "II M"
+},
+{
+    "criteriu": 421,
+    "nume": "Sp. Cl. de Obst.-Ginec.\"Dr.D.Popescu\" Timisoara ",
+    "jude\u0163": " Timi\u015f",
+    "clasificare": "II M"
+},
+{
+    "criteriu": 422,
+    "nume": "Spitalul Municipal Lugoj",
+    "jude\u0163": " Timi\u015f",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 423,
+    "nume": "Spitalul Orasenesc Deta",
+    "jude\u0163": " Timi\u015f",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 424,
+    "nume": "Spitalul Orasenesc Faget",
+    "jude\u0163": " Timi\u015f",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 425,
+    "nume": "Spitalul Orasenesc Sannicolau Mare",
+    "jude\u0163": " Timi\u015f",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 426,
+    "nume": "Spitalul \"Dr.Karl Diel\" Jimbolia",
+    "jude\u0163": " Timi\u015f",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 427,
+    "nume": "Spital Clinic CF Timisoara",
+    "jude\u0163": " Timi\u015f",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 428,
+    "nume": "Centrul de Ingrijiri Paliative Casa Milovistivirii Divine Timisoara",
+    "jude\u0163": " Timi\u015f",
+    "clasificare": "V"
+},
+{
+    "criteriu": 429,
+    "nume": "Centrul de Oncologie Oncohelp",
+    "jude\u0163": " Timi\u015f",
+    "clasificare": "V"
+},
+{
+    "criteriu": 430,
+    "nume": "SC Medicor Clinics SRL Timisoara",
+    "jude\u0163": " Timi\u015f",
+    "clasificare": "V"
+},
+{
+    "criteriu": 431,
+    "nume": "Spital Brol Medical Center Timisoara",
+    "jude\u0163": " Timi\u015f",
+    "clasificare": "V"
+},
+{
+    "criteriu": 432,
+    "nume": "Spitalul Militar de Urgenta Dr Victor Popescu Timisoara",
+    "jude\u0163": " Timi\u015f",
+    "clasificare": "III  plan conf. "
+},
+{
+    "criteriu": 433,
+    "nume": "SC Gynatal SRL Timisoara",
+    "jude\u0163": " Timi\u015f",
+    "clasificare": "V"
+},
+{
+    "criteriu": 434,
+    "nume": "SC Athena Hospital SRL Timisoara",
+    "jude\u0163": " Timi\u015f",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 435,
+    "nume": "Spitalul (Leprozeria) Tichilesti",
+    "jude\u0163": " Tulcea",
+    "clasificare": "V"
+},
+{
+    "criteriu": 436,
+    "nume": "Spitalul Judetean de Urgenta Tulcea",
+    "jude\u0163": " Tulcea",
+    "clasificare": "III"
+},
+{
+    "criteriu": 437,
+    "nume": "Spitalul Orasenesc Macin",
+    "jude\u0163": " Tulcea",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 438,
+    "nume": "Spitalul Judetean de Urgenta Vaslui",
+    "jude\u0163": " Vaslui",
+    "clasificare": "III plan conf. "
+},
+{
+    "criteriu": 439,
+    "nume": "Spitalul de Copii \"Sf.Nicolae\" Barlad",
+    "jude\u0163": " Vaslui",
+    "clasificare": "V"
+},
+{
+    "criteriu": 440,
+    "nume": "Sp. Municipal de Urg. \"Elena Beldiman\" Barlad",
+    "jude\u0163": " Vaslui",
+    "clasificare": "III plan conf. "
+},
+{
+    "criteriu": 441,
+    "nume": "Spitalul de Psihiatrie Murgeni",
+    "jude\u0163": " Vaslui",
+    "clasificare": "V"
+},
+{
+    "criteriu": 442,
+    "nume": "Spitalul Municipal Husi",
+    "jude\u0163": " Vaslui",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 443,
+    "nume": "Spitalul Judetean de Urgenta Ramnicu Valcea",
+    "jude\u0163": " V\u00e2lcea",
+    "clasificare": "III plan conf. "
+},
+{
+    "criteriu": 444,
+    "nume": "Spitalul de Obstetrica-Ginecologie R.Valcea",
+    "jude\u0163": " V\u00e2lcea",
+    "clasificare": "V"
+},
+{
+    "criteriu": 445,
+    "nume": "Sp. de Pneumoftiziologie  \"C.Anastasatu\" Mihaesti",
+    "jude\u0163": " V\u00e2lcea",
+    "clasificare": "V"
+},
+{
+    "criteriu": 446,
+    "nume": "Spitalul de Psihiatrie Dragoesti",
+    "jude\u0163": " V\u00e2lcea",
+    "clasificare": "V"
+},
+{
+    "criteriu": 447,
+    "nume": "Spitalul Municipal\"Costache Nicolescu\" Dragasani",
+    "jude\u0163": " V\u00e2lcea",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 448,
+    "nume": "Spitalul Orasenesc Brezoi",
+    "jude\u0163": " V\u00e2lcea",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 449,
+    "nume": "Spitalul Orasenesc Horezu",
+    "jude\u0163": " V\u00e2lcea",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 450,
+    "nume": "SC Amamed SRL",
+    "jude\u0163": " V\u00e2lcea",
+    "clasificare": "V"
+},
+{
+    "criteriu": 451,
+    "nume": "SC Icarmed SRL",
+    "jude\u0163": " V\u00e2lcea",
+    "clasificare": "V"
+},
+{
+    "criteriu": 452,
+    "nume": "SC Olanesti Riviera SA",
+    "jude\u0163": " V\u00e2lcea",
+    "clasificare": "V"
+},
+{
+    "criteriu": 453,
+    "nume": "Spitalul Jud.de Urgenta \"Sf.Pantelimon\"  Focsani",
+    "jude\u0163": " Vrancea",
+    "clasificare": "III"
+},
+{
+    "criteriu": 454,
+    "nume": "Spitalul de Psihiatrie Cronici Dumbraveni",
+    "jude\u0163": " Vrancea",
+    "clasificare": "V"
+},
+{
+    "criteriu": 455,
+    "nume": "Spitalul Municipal Adjud",
+    "jude\u0163": " Vrancea",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 456,
+    "nume": "Spitalul Orasenesc Panciu",
+    "jude\u0163": " Vrancea",
+    "clasificare": "IV"
+},
+{
+    "criteriu": 457,
+    "nume": "Spitalul Comunal Vidra",
+    "jude\u0163": " Vrancea",
+    "clasificare": "IV plan conf. "
+},
+{
+    "criteriu": 458,
+    "nume": "SC Materna SRL Focsani",
+    "jude\u0163": " Vrancea",
+    "clasificare": "V"
+},
+{
+    "criteriu": 459,
+    "nume": "Spitalul Militar de Urgen\u0163\u0103 \u201eDr. Alexandru Ionescu\u201d Focsani",
+    "jude\u0163": " Vrancea",
+    "clasificare": "IV"
+},
+
+]
